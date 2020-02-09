@@ -1,0 +1,7 @@
+- name: Postgresql
+  percentage: 95
+  color: success
+
+- name: Angular
+  percentage: 90
+  color: success
