@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/postgresql-in-action</loc>
+<loc>/blog/postgresql-in-action</loc>
 <lastmod>2020-02-09T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/</loc>
+<loc>/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/tags</loc>
+<loc>/blog/tags</loc>
 </url>
 <url>
-<loc>http://localhost:4000/pages/google8d26aafb67924b8e.html</loc>
+<loc>/pages/google8d26aafb67924b8e.html</loc>
 <lastmod>2020-06-07T13:23:05+05:30</lastmod>
 </url>
 </urlset>
